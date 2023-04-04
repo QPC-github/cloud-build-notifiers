@@ -10,7 +10,7 @@ require (
 	cloud.google.com/go/storage v1.14.0
 	github.com/antlr/antlr4 v0.0.0-20210404160547-4dfacf63e228 // indirect
 	github.com/docker/cli v20.10.5+incompatible // indirect
-	github.com/docker/docker v20.10.5+incompatible // indirect
+	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.2
